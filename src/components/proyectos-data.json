@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "Conaiisi 2016",
+        "descripcion": "Sitio oficial del Congreso",
+        "acceso":"http://www.ucasal.edu.ar/conaiisi2016/",
+        "activo": true,
+        "imagen": "",
+        "año":2016
+    },
+    {
+        "nombre": "Memorias: Conaiisi 2016",
+        "descripcion": "Memorias de Congreso",
+        "acceso":"http://www.ucasal.edu.ar/conaiisi2016/book/memorias.html",
+        "activo": true,
+        "imagen": "",
+        "año":2016
+    }
+]

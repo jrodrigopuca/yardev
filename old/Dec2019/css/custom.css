@@ -1,0 +1,64 @@
+.video-container {
+  position: absolute;
+  z-index: 1;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  border: none; }
+
+.video-container video {
+  min-width: 100%;
+  min-height: 100%;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); }
+
+#headerTexto {
+  background-color: rgba(63, 81, 181, 0.5);
+  color: white;
+  border: none; }
+
+.middle-xs {
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.center-xs {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center; }
+
+section {
+  border: none; }
+
+.float-block {
+  z-index: 1000; }
+
+#AcercaDe {
+  background-image: url("../images/coding.jpg");
+  color: whitesmoke; }
+  #AcercaDe h1 {
+    color: white !important; }
+  #AcercaDe .content {
+    border-radius: 50%;
+    margin: auto;
+    padding: 4rem;
+    background-color: rgba(63, 81, 181, 0.3);
+    width: 20rem;
+    height: 20rem;
+    overflow: hidden; }
+    #AcercaDe .content h2 {
+      color: #3f51b5; }
+  #AcercaDe .content:hover {
+    transform: rotate(360deg);
+    transition: 2s all;
+    display: block; }
+
+#Proyectos {
+  background-color: #435993; }
+
+#Contacto {
+  background-color: #717fa3; }
