@@ -1,24 +1,33 @@
 import React, { Component } from 'react';
-import data from './proyectos-data';
+import './proyectos.scss';
 
-function Elemento (props){
-    const item= props.item;
-    return(
-        <li>
-            <h2>{item.nombre}</h2>
-            <h3>{item.descripcion}</h3>
-            <a href={item.acceso}>Acceder</a>
+function Elemento(props) {
+    const item = props.item;
+    return (
+        <li className="card" key={item.id}>
+            <div className="card-text">
+                <p className="card-title">{item.titulo}</p>
+                <p className="card-subtitle">{item.subtitulo}</p>
+                <p className="card-description">{item.descripcion}</p>
+            </div>
+            <div className="card-actions">
+                {item.links.map(e => (<a className="card-action" key={e.id} href={e.link}>{e.descripcion}</a>))}
+            </div>
         </li>
     )
-} 
+}
 
 
 class Proyectos extends Component {
-    render(){       
-        return(
-            <ul>
-                {data.map(e=>(<Elemento item={e} />))}
-            </ul>
+    render() {
+        const data = this.props.data;
+        return (
+            <section className="proyectos">
+                <h1> Proyectos </h1>
+                <ul>
+                    {data.map(e => (<Elemento key={e.id} item={e} />))}
+                </ul>
+            </section>
         )
     }
 }

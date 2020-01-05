@@ -5,11 +5,11 @@ class AcercaDe extends Component {
     render() {
         const textCont={
             position:'relative',
-            color:'white',
-            backgroundColor:'rgba(200,55,55,0.5)',
+            backgroundColor:'rgba(41,52,98,0.5)',
             border:'none',
             overflow:"hidden",
             fontSize: 'calc(10px + 2vmin)',
+            color: '#fff1c1',
         }
 
         const textStyle={
@@ -51,13 +51,11 @@ class AcercaDe extends Component {
                 </section>
                 <section style={textCont}>
                     <div style={textStyle}>
-                        <h1>¿Qué es Yardev?</h1>
-                        <p>
-                            Es un gran conjunto de proyectos en los que participo activamente 
-                            realizando el desarrollo de software. Este es mi punto de partida 
-                            para mezclar diversas tecnologías, probar sin restricciones y obtener
+                        <h1>Yardev</h1>
+                        <legend>
+                            Este es mi punto de partida para emplear diversas tecnologías, probar sin restricciones y obtener
                             nuevos productos.
-                        </p>
+                        </legend>
                     </div>
                 </section>
             </>

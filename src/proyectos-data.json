@@ -1,0 +1,123 @@
+[
+    {
+        "id": "01",
+        "titulo": "Plataforma para Congreso",
+        "subtitulo": "Congreso CIDDI 2018",
+        "descripcion": "Desarrollo de plataforma para gestión de papers.",
+        "links": [
+            {
+                "id":230,
+                "link": "https://www.yardev.net/congreso/login.php",
+                "descripcion": "Plataforma"
+            },
+            {
+                "id":231,
+                "link": "https://github.com/jrodrigopuca/congreso",
+                "descripcion": "GitHub"
+            }
+        ],
+        "activo": true,
+        "imagen": "http://www.ucasal.edu.ar/conaiisi2016/img/conaiisi-cabecera01.png",
+        "año": 2016
+    },
+    {
+        "id": "02",
+        "titulo": "Memorias para Congreso",
+        "subtitulo": "Congreso CIIDDI 2018/CoNaIISI 2016",
+        "descripcion": "Desarrollo de la plataforma de presentación de memorias.",
+        "links": [
+            {
+                "id":334,
+                "link": "https://yardev.net/congreso/memorias/",
+                "descripcion": "Plataforma"
+            },
+            {
+                "id":333,
+                "link": "https://github.com/jrodrigopuca/memorias-congreso",
+                "descripcion": "GitHub"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2016
+    },
+    {
+        "id": "03",
+        "titulo": "Apps para Congreso",
+        "subtitulo": "CoNaIISI 2016",
+        "descripcion": "Desarrollo de aplicaciones móviles para Congreso",
+        "links": [
+            {
+                "id":334,
+                "link": "https://www.amazon.com/dp/B01MXI6C7M/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1478697934&sr=1-1",
+                "descripcion": "Android App"
+            },
+            {
+                "id":333,
+                "link": "https://www.microsoft.com/es-ar/store/p/conaiisi-2016/9nblggh43nmc",
+                "descripcion": "Win10 App"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2016
+    },
+    {
+        "id": "04",
+        "titulo": "Generador de Contraseñas",
+        "subtitulo": "Componente",
+        "descripcion": "Generador de contraseñas seguras y fáciles de recordar",
+        "links": [
+            {
+                "id":334,
+                "link": "https://yardev.net/pg/",
+                "descripcion": "Implementación"
+            },
+            {
+                "id":333,
+                "link": "https://github.com/jrodrigopuca/password-generator",
+                "descripcion": "GitHub"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2018
+    },
+    {
+        "id": "05",
+        "titulo": "Outsider",
+        "subtitulo": "Juego de Realidad Virtual",
+        "descripcion": "Desarrollo de videojuego de Impacto Social para dispositivos móviles.",
+        "links": [
+            {
+                "id":334,
+                "link": "https://yardev.net/vr/",
+                "descripcion": "Implementación"
+            },
+            {
+                "id":333,
+                "link": "https://github.com/jrodrigopuca/grado",
+                "descripcion": "GitHub"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2016
+    },
+    {
+        "id": "06",
+        "titulo": "Otros",
+        "subtitulo": "Más",
+        "descripcion": "Otros proyectos actuales en diversas tecnologías.",
+        "links": [
+            {
+                "id":333,
+                "link": "https://github.com/jrodrigopuca?tab=repositories",
+                "descripcion": "GitHub"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2016
+    }
+]

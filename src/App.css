@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Roboto&display=swap');
+
 .App {
   text-align: center;
+  display: grid; /*agregado*/
+  min-height: 100%;
+  overflow-x: hidden;
 }
 
 .App-logo {
@@ -20,9 +25,16 @@
 }
 
 section{
+  min-width: 100%;
   min-height: 100vh;
+  font-family: 'Roboto', sans-serif;
 }
 
+h1{
+  font-size: calc(10px + 15vmin);
+  font-family: 'Alfa Slab One', cursive;
+  color: #fff1c1;
+}
 
 /*
 @media (prefers-reduced-motion: no-preference) {
