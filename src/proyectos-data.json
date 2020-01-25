@@ -106,6 +106,48 @@
     },
     {
         "id": "06",
+        "titulo": "Puntos",
+        "subtitulo": "Juego",
+        "descripcion": "Juego realizado con PhaserJS",
+        "links": [
+            {
+                "id":36,
+                "link": "https://yardev.net/vr/",
+                "descripcion": "Website"
+            },
+            {
+                "id":37,
+                "link": "https://github.com/jrodrigopuca/puntos",
+                "descripcion": "GitHub"
+            },
+            {
+                "id":38,
+                "link": "https://play.google.com/store/apps/details?id=io.tapx3",
+                "descripcion": "Google Play"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2019
+    },
+    {
+        "id": "07",
+        "titulo": "Detector",
+        "subtitulo": "Procesamiento de videos",
+        "descripcion": "Detector de Personas",
+        "links": [
+            {
+                "id":37,
+                "link": "https://github.com/jrodrigopuca/detector",
+                "descripcion": "GitHub"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2019
+    },
+    {
+        "id": "08",
         "titulo": "Otros",
         "subtitulo": "Más",
         "descripcion": "Otros proyectos actuales en diversas tecnologías.",
