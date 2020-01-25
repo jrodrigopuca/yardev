@@ -6,6 +6,7 @@ import data from './proyectos-data';
 //import MyHeader from './components/header';
 import AcercaDe from './components/acercade';
 import Proyectos from './components/proyectos';
+import Contacto from './components/contacto.jsx'
 import MyFooter from './components/footer';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       */}
       <AcercaDe/>
       <Proyectos data={data}/>
+      <Contacto web="https://formspree.io/xlejzwly"/>
       <MyFooter />
     </div>
   );
