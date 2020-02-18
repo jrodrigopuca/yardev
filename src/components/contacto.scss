@@ -40,3 +40,10 @@ input:invalid:not(:placeholder-shown), textarea:invalid:not(:placeholder-shown){
 input:valid, textarea:valid{
     border-color:greenyellow;
 }
+
+.msgFinish{
+    color:greenyellow;
+}
+.msgError{
+    color:red;
+}

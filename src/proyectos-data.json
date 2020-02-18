@@ -1,9 +1,9 @@
 [
     {
         "id": "01",
-        "titulo": "Plataforma para Congreso",
-        "subtitulo": "Congreso CIDDI 2018",
-        "descripcion": "Desarrollo de plataforma para gestión de papers.",
+        "titulo": "Plataforma de gestión",
+        "subtitulo": "Módulo web",
+        "descripcion": "Desarrollo de plataforma para gestión de papers de CIIDI 2018",
         "links": [
             {
                 "id":230,
@@ -23,13 +23,23 @@
     {
         "id": "02",
         "titulo": "Memorias para Congreso",
-        "subtitulo": "Congreso CIIDDI 2018/CoNaIISI 2016",
-        "descripcion": "Desarrollo de la plataforma de presentación de memorias.",
+        "subtitulo": "Módulo de Sofware",
+        "descripcion": "Desarrollo de módulo para presentación de memorias.",
         "links": [
             {
                 "id":334,
                 "link": "https://yardev.net/congreso/memorias/",
-                "descripcion": "Plataforma"
+                "descripcion": "Memorias CIIDI 2018"
+            },
+            {
+                "id":332,
+                "link":"http://www.ucasal.edu.ar/conaiisi2016/book/memorias.html",
+                "descripcion":"Memorias CoNaIISI 2016"
+            },
+            {
+                "id":331,
+                "link": "https://www.conaiisi2018mdp.org/memorias/memorias.html",
+                "descripcion": "Memorias CoNaIISI 2018"
             },
             {
                 "id":333,
@@ -44,8 +54,8 @@
     {
         "id": "03",
         "titulo": "Apps para Congreso",
-        "subtitulo": "CoNaIISI 2016",
-        "descripcion": "Desarrollo de aplicaciones móviles para Congreso",
+        "subtitulo": "Aplicaciones Móviles",
+        "descripcion": "Desarrollo de aplicaciones móviles para Congreso CoNaIISI 2016",
         "links": [
             {
                 "id":334,
@@ -54,8 +64,8 @@
             },
             {
                 "id":333,
-                "link": "https://www.microsoft.com/es-ar/store/p/conaiisi-2016/9nblggh43nmc",
-                "descripcion": "Win10 App"
+                "link": "https://youtu.be/Aj3aq5ESUG8",
+                "descripcion": "Demo UWP App"
             }
         ],
         "activo": true,
@@ -65,13 +75,13 @@
     {
         "id": "04",
         "titulo": "Generador de Contraseñas",
-        "subtitulo": "Componente",
+        "subtitulo": "Extensión de navegador",
         "descripcion": "Generador de contraseñas seguras y fáciles de recordar",
         "links": [
             {
                 "id":330,
                 "link": "https://yardev.net/pg/",
-                "descripcion": "Web"
+                "descripcion": "Generador [ES]"
             },
             {
                 "id":331,
@@ -110,6 +120,11 @@
                 "descripcion": "Juego"
             },
             {
+                "id":332,
+                "link":"https://youtu.be/02X-SkskZt4",
+                "descripcion": "Demo"
+            },
+            {
                 "id":333,
                 "link": "https://github.com/jrodrigopuca/grado",
                 "descripcion": "GitHub"
@@ -123,23 +138,19 @@
         "id": "06",
         "titulo": "Puntos",
         "subtitulo": "Juego",
-        "descripcion": "Juego realizado con PhaserJS",
+        "descripcion": "Progressive Web Game realizado con PhaserJS",
         "links": [
             {
                 "id":36,
                 "link": "https://yardev.net/puntos/",
-                "descripcion": "PWA"
+                "descripcion": "Progressive Web Game"
             },
             {
                 "id":37,
                 "link": "https://github.com/jrodrigopuca/puntos",
                 "descripcion": "GitHub"
-            },
-            {
-                "id":38,
-                "link": "",
-                "descripcion": "Google Play"
             }
+
         ],
         "activo": true,
         "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",

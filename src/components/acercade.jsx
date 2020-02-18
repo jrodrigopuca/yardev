@@ -45,9 +45,9 @@ class AcercaDe extends Component {
         return (
             <>
                 <section style={videoCont}>
-                    <video autoPlay style={videoStyle} loop muted poster="cover/spacious.jpg">
-                        <source src="cover/spacious.mp4" type='video/mp4' />
-                        <source src="cover/spacious.webm" type='video/webm' />
+                    <video autoPlay style={videoStyle} loop muted poster="cover/Spacious.jpg">
+                        <source src="cover/Spacious.mp4" type='video/mp4' />
+                        <source src="cover/Spacious.webm" type='video/webm' />
                         Tu navegador no soporta videos
                     </video>
                 </section>

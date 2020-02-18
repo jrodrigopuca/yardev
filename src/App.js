@@ -17,7 +17,7 @@ function App() {
       */}
       <AcercaDe/>
       <Proyectos data={data}/>
-      <Contacto web="https://formspree.io/xlejzwly"/>
+      <Contacto formID="xlejzwly"/>
       <MyFooter />
     </div>
   );
