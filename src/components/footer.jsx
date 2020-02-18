@@ -5,7 +5,7 @@ class MyFooter extends Component{
     render(){
 
         const styles= {
-            backgroundColor: "#fff1c1",
+            backgroundColor: "antiquewhite",
             margin:0,
             padding:'10px',
             color:'#293462',

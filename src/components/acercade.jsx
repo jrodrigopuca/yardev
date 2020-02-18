@@ -45,16 +45,18 @@ class AcercaDe extends Component {
         return (
             <>
                 <section style={videoCont}>
-                    <video autoPlay style={videoStyle} loop muted>
-                        <source src="https://jrodrigopuca.github.io/videos/portada.mp4" type='video/mp4' />
+                    <video autoPlay style={videoStyle} loop muted poster="cover/spacious.jpg">
+                        <source src="cover/spacious.mp4" type='video/mp4' />
+                        <source src="cover/spacious.webm" type='video/webm' />
+                        Tu navegador no soporta videos
                     </video>
                 </section>
                 <section style={textCont}>
                     <div style={textStyle}>
                         <h1>Yardev</h1>
                         <legend>
-                            Este es mi punto de partida para emplear diversas tecnologías, probar sin restricciones y obtener
-                            nuevos productos.
+                            Un punto de partida para emplear diversas tecnologías, probar sin restricciones y obtener
+                            nuevos productos. Software creado desde Salta, Argentina.
                         </legend>
                     </div>
                 </section>

@@ -69,12 +69,27 @@
         "descripcion": "Generador de contraseñas seguras y fáciles de recordar",
         "links": [
             {
-                "id":334,
+                "id":330,
                 "link": "https://yardev.net/pg/",
-                "descripcion": "Implementación"
+                "descripcion": "Web"
+            },
+            {
+                "id":331,
+                "link": "https://addons.mozilla.org/en-US/firefox/addon/memorable-passwords/",
+                "descripcion": "Firefox Extension"
+            },
+            {
+                "id":332,
+                "link": "https://addons.opera.com/en/extensions/details/memorable-passwords/",
+                "descripcion": "Opera Extension"
             },
             {
                 "id":333,
+                "link": "https://microsoftedge.microsoft.com/addons/detail/agmnacalllbnnjodcmjheahiffdchfeo",
+                "descripcion":"MS Edge Extension"
+            },
+            {
+                "id":334,
                 "link": "https://github.com/jrodrigopuca/password-generator",
                 "descripcion": "GitHub"
             }
@@ -92,7 +107,7 @@
             {
                 "id":334,
                 "link": "https://yardev.net/vr/",
-                "descripcion": "Implementación"
+                "descripcion": "Juego"
             },
             {
                 "id":333,
@@ -113,7 +128,7 @@
             {
                 "id":36,
                 "link": "https://yardev.net/puntos/",
-                "descripcion": "Website"
+                "descripcion": "PWA"
             },
             {
                 "id":37,
@@ -122,7 +137,7 @@
             },
             {
                 "id":38,
-                "link": "https://play.google.com/store/apps/details?id=io.tapx3",
+                "link": "",
                 "descripcion": "Google Play"
             }
         ],

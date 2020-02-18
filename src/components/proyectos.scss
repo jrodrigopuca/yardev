@@ -4,19 +4,21 @@
 }
 
 .card{
-    background-color: #fff1c1;
-    color: #293462;
+    background-color: #27416b38;
+    color: #faebd7;
+    border-style: solid;
+    border-color:#faebd72b;
     flex-direction: column;
     //display: flex;
     //float: left;
     //box-sizing: border-box;
     position: relative;
-    height: 300px;
+    height: 350px;
     margin-bottom: 0px;
     width: 300px;
-    border-radius:4px;
+    border-radius:15px;
     margin:1vw;
-    border:none;
+    //border:none;
     //border-width: 1px;
     //border-color:#e0e0e0;
     //box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
@@ -27,7 +29,7 @@
 .card-title{
     font-size: 1.25rem;
     line-height: 2rem;
-    font-weight: 500;
+    font-weight: bold;
     letter-spacing:.0125em;
     -webkit-font-smoothing: antialiased;
     margin:0;
@@ -55,16 +57,20 @@ ul{
 }
 
 .card-actions{
-    display:flex;
-    flex-direction:row;
+    display:inline-flex;
+    flex-direction: column;
     padding: 8px 24px;
-    
+
 }
 
 .card-action{
-    display:inline-flex;
-    flex-direction:row;
+    //display:inline-flex;
+    //flex-direction:row;
     cursor: pointer;
-    margin: 0px 8px;
-    background: transparent;
+    padding: 4px;
+    background-color: #faebd72e;
+    color: antiquewhite;
+    border-radius: 15px;
+    margin:1px;
+    text-decoration-line: none;
 }

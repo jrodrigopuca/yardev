@@ -33,7 +33,10 @@ section{
 h1{
   font-size: calc(10px + 15vmin);
   font-family: 'Alfa Slab One', cursive;
-  color: #fff1c1;
+  color: antiquewhite;
+}
+legend{
+  color: antiquewhite;
 }
 
 /*

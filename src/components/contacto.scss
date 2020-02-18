@@ -14,14 +14,14 @@ color:white;
 }
 
 input, textarea{
-    background-color:transparent;
+    background-color:#faebd72e;
     color:white;
-    margin: 15px;
+    margin: 5px;
     border: 2px solid lightgray;
-    border-radius: 5px;
+    border-radius: 15px;
     transition: border-color .5s ease-out;
     font-weight: bold;
-    padding: 0 10px;
+    padding: 10px 10px;
 }
 input::placeholder, textarea::placeholder{
     color: lightgray;
