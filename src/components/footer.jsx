@@ -12,7 +12,7 @@ class MyFooter extends Component{
         }
 
         return(
-            <p style={styles}>Yardev.net - Web desarrollada usando ReactJS - Ing. Juan Puca</p>
+            <p style={styles}>Yardev.net - Web desarrollada usando React JS - <a href="https://about.me/jrodrigopuca">Ing. Juan Puca</a> </p>
         )
     }
 }

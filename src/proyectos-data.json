@@ -3,7 +3,7 @@
         "id": "01",
         "titulo": "Plataforma de gestión",
         "subtitulo": "Módulo web",
-        "descripcion": "Desarrollo de plataforma para gestión de papers de CIIDI 2018",
+        "descripcion": "Desarrollo de plataforma para gestión de papers de CIIDDI 2018",
         "links": [
             {
                 "id":230,
@@ -23,13 +23,13 @@
     {
         "id": "02",
         "titulo": "Memorias para Congreso",
-        "subtitulo": "Módulo de Sofware",
+        "subtitulo": "Módulo web",
         "descripcion": "Desarrollo de módulo para presentación de memorias.",
         "links": [
             {
                 "id":334,
                 "link": "https://yardev.net/congreso/memorias/",
-                "descripcion": "Memorias CIIDI 2018"
+                "descripcion": "Memorias CIIDDI 2018"
             },
             {
                 "id":332,
@@ -81,7 +81,7 @@
             {
                 "id":330,
                 "link": "https://yardev.net/pg/",
-                "descripcion": "Generador [ES]"
+                "descripcion": "Generador en Web [ES]"
             },
             {
                 "id":331,
@@ -97,6 +97,11 @@
                 "id":333,
                 "link": "https://microsoftedge.microsoft.com/addons/detail/agmnacalllbnnjodcmjheahiffdchfeo",
                 "descripcion":"MS Edge Extension"
+            },
+            {
+                "id":335,
+                "link":"https://chrome.google.com/webstore/detail/memorable-passwords/ldkkjhjphjkdcbeladmbneibpljmlfga",
+                "descripcion":"Chrome Extension"
             },
             {
                 "id":334,
@@ -146,9 +151,18 @@
                 "descripcion": "Progressive Web Game"
             },
             {
+                "id":35,
+                "link": "https://play.google.com/store/apps/details?id=jarp.proy.puntos",
+                "descripcion": "en Google Play"
+            },
+            {
                 "id":37,
                 "link": "https://github.com/jrodrigopuca/puntos",
                 "descripcion": "GitHub"
+            },{
+                "id":38,
+                "link":"https://www.youtube.com/watch?v=1jIhr50V2Eg",
+                "descripcion": "Demo"
             }
 
         ],
@@ -166,6 +180,10 @@
                 "id":37,
                 "link": "https://github.com/jrodrigopuca/detector",
                 "descripcion": "GitHub"
+            },{
+                "id":36,
+                "link": "https://www.youtube.com/watch?v=NJVWL_bUqC0",
+                "descripcion": "Demo"
             }
         ],
         "activo": true,

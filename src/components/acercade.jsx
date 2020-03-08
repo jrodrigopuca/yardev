@@ -41,6 +41,7 @@ class AcercaDe extends Component {
             height:'100%',
             border:'none',
         }
+        
 
         return (
             <>
@@ -53,11 +54,17 @@ class AcercaDe extends Component {
                 </section>
                 <section style={textCont}>
                     <div style={textStyle}>
-                        <h1>Yardev</h1>
+                        <h1 className="Acerca-header"> Yardev </h1>
+                        <h2>programando( );</h2>
                         <legend>
                             Un punto de partida para emplear diversas tecnologías, probar sin restricciones y obtener
-                            nuevos productos. Software creado desde Salta, Argentina.
+                            nuevos productos. 
                         </legend>
+                        <legend>Software creado desde Salta, Argentina.</legend>
+            
+                        {/*
+                        <img src={this.props.imagen} alt="logo" width="100px" height="100px" className="logo"/>
+                        */}
                     </div>
                 </section>
             </>

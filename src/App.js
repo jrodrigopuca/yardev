@@ -1,5 +1,5 @@
 import React from 'react';
-//import logo from './logo.svg';
+import logo from './logo.svg';
 import './App.css';
 import data from './proyectos-data';
 
@@ -15,7 +15,7 @@ function App() {
       {/*
       <MyHeader imagen={logo}></MyHeader>
       */}
-      <AcercaDe/>
+      <AcercaDe imagen={logo}/>
       <Proyectos data={data}/>
       <Contacto formID="xlejzwly"/>
       <MyFooter />

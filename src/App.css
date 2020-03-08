@@ -8,8 +8,9 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 15vmin;
   pointer-events: none;
+  margin-right: 2rem;
 }
 
 
@@ -39,10 +40,14 @@ legend{
   color: antiquewhite;
 }
 
-/*
+.logo{
+  padding: 15px;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+  .logo {
+    animation: App-logo-spin infinite 18s linear;
   }
 }
 
@@ -51,11 +56,19 @@ legend{
 }
 
 @keyframes App-logo-spin {
+  /*
   from {
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
-  }
+    transform: rotate(10deg);
+  }*/
+  0%{transform: rotate(-15deg);}
+  50%{transform: rotate(20deg);}
+  100%{transform: rotate(-15deg);}
+
 }
-*/
+
+.Acerca-header{
+  margin-bottom: 10px;
+}
