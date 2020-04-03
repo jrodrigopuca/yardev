@@ -192,6 +192,48 @@
     },
     {
         "id": "08",
+        "titulo": "QR Code Generator",
+        "subtitulo": "Librería",
+        "descripcion": "Generador creado desde cero",
+        "links": [
+            {
+                "id":332,
+                "link": "https://yardev.net/qr/",
+                "descripcion": "Web"
+            },
+            {
+                "id":333,
+                "link": "https://github.com/jrodrigopuca/QR-Code-Generator",
+                "descripcion": "GitHub"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2016
+    },
+    {
+        "id": "09",
+        "titulo": "Pomodoro Timer",
+        "subtitulo": "Módulo Web",
+        "descripcion": "Proyecto web creado con React Native",
+        "links": [
+            {
+                "id":332,
+                "link": "https://yardev.net/pomodoro/",
+                "descripcion": "Web"
+            },
+            {
+                "id":333,
+                "link": "https://github.com/jrodrigopuca/ES-experiments/tree/master/react-course/project1",
+                "descripcion": "GitHub"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2016
+    },
+    {
+        "id": "10",
         "titulo": "Otros",
         "subtitulo": "Más",
         "descripcion": "Otros proyectos actuales en diversas tecnologías.",
