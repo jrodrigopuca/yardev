@@ -80,7 +80,7 @@
         "titulo": "Generador de Contraseñas",
         "subtitulo": "Extensión de navegador",
         "descripcion": "Generador de contraseñas seguras y fáciles de recordar",
-        "tecnologias": "Javascript",
+        "tecnologias": "Javascript, Webpack",
         "links": [
             {
                 "id":330,
@@ -201,7 +201,7 @@
         "id": "08",
         "titulo": "QR Code Generator",
         "subtitulo": "Librería",
-        "descripcion": "Generador creado desde cero",
+        "descripcion": "Generador de código QR creado desde cero",
         "tecnologias": "Typescript, Javascript",
         "links": [
             {
@@ -223,7 +223,7 @@
         "id": "09",
         "titulo": "Pomodoro Timer",
         "subtitulo": "Módulo Web",
-        "descripcion": "Temporizador",
+        "descripcion": "Temporizador para uso de técnica Pomodoro",
         "tecnologias": "Javascript, React Native",
         "links": [
             {
@@ -243,10 +243,32 @@
     },
     {
         "id": "10",
+        "titulo": "TODO App",
+        "subtitulo": "Módulo web",
+        "descripcion": "Lista de actividades con almacenamiento web local",
+        "tecnologias": "Javascript, React",
+        "links": [
+            {
+                "id":333,
+                "link": "https://github.com/jrodrigopuca/ES-experiments/tree/master/react-course/project0",
+                "descripcion": "GitHub"
+            },
+            {
+                "id":332,
+                "link": "https://yardev.net/todo/",
+                "descripcion": "Web"
+            }
+        ],
+        "activo": true,
+        "imagen": "https://raw.githubusercontent.com/jrodrigopuca/FrontEnd-Learning/master/images/art-3.png",
+        "año": 2016
+    },
+    {
+        "id": "11",
         "titulo": "Otros",
         "subtitulo": "Más",
         "descripcion": "Otros proyectos actuales en diversas tecnologías.",
-        "tecnologias": "Javascript Python PHP",
+        "tecnologias": "Javascript, Python, PHP",
         "links": [
             {
                 "id":333,
