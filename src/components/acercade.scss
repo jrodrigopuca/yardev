@@ -1,0 +1,25 @@
+.acerca-legend{
+    padding-top: 30px;
+}
+
+.acerca-desc{
+    overflow: hidden;
+    color: whitesmoke;
+    border-right: .15em solid blue;
+    white-space: nowrap;
+    margin:0 auto;
+    letter-spacing: .10em;
+    animation: 
+        typing 3.5s steps(40,end),
+        waiting .75s step-end infinite;
+}
+
+@keyframes typing{
+    from {width: 0;}
+    to {width: 100%;}
+}
+
+@keyframes waiting{
+    from, to {border-color:transparent;}
+    50% {border-color:whitesmoke;}
+}

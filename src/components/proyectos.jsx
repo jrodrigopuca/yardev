@@ -8,6 +8,7 @@ function Elemento(props) {
             <div className="card-text">
                 <p className="card-title">{item.titulo}</p>
                 <p className="card-subtitle">{item.subtitulo}</p>
+                <small className="card-tec">{item.tecnologias}</small>
                 <p className="card-description">{item.descripcion}</p>
             </div>
             <div className="card-actions">

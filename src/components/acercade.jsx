@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import './acercade.scss';
 
 class AcercaDe extends Component {
 
@@ -55,8 +56,8 @@ class AcercaDe extends Component {
                 <section style={textCont}>
                     <div style={textStyle}>
                         <h1 className="Acerca-header"> Yardev </h1>
-                        <h2>programando( );</h2>
-                        <legend>
+                        <h2 className="acerca-desc">programando( );</h2>
+                        <legend className="acerca-legend">
                             Un punto de partida para emplear diversas tecnologías, probar sin restricciones y obtener
                             nuevos productos. 
                         </legend>

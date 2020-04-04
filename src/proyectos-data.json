@@ -4,6 +4,7 @@
         "titulo": "Plataforma de gestión",
         "subtitulo": "Módulo web",
         "descripcion": "Desarrollo de plataforma para gestión de papers de CIIDDI 2018",
+        "tecnologias": "PHP, Javascript",
         "links": [
             {
                 "id":230,
@@ -25,6 +26,7 @@
         "titulo": "Memorias para Congreso",
         "subtitulo": "Módulo web",
         "descripcion": "Desarrollo de módulo para presentación de memorias.",
+        "tecnologias": "HTML5, Javascript",
         "links": [
             {
                 "id":334,
@@ -56,6 +58,7 @@
         "titulo": "Apps para Congreso",
         "subtitulo": "Aplicaciones Móviles",
         "descripcion": "Desarrollo de aplicaciones móviles para Congreso CoNaIISI 2016",
+        "tecnologias": "Apache Cordova, Javascript, UWP, C#",
         "links": [
             {
                 "id":334,
@@ -77,6 +80,7 @@
         "titulo": "Generador de Contraseñas",
         "subtitulo": "Extensión de navegador",
         "descripcion": "Generador de contraseñas seguras y fáciles de recordar",
+        "tecnologias": "Javascript",
         "links": [
             {
                 "id":330,
@@ -118,6 +122,7 @@
         "titulo": "Outsider",
         "subtitulo": "Juego de Realidad Virtual",
         "descripcion": "Desarrollo de videojuego de Impacto Social para dispositivos móviles.",
+        "tecnologias": "PHP, Javascript, AngularJS",
         "links": [
             {
                 "id":334,
@@ -143,7 +148,8 @@
         "id": "06",
         "titulo": "Puntos",
         "subtitulo": "Juego",
-        "descripcion": "Progressive Web Game realizado con PhaserJS",
+        "descripcion": "Progressive Web Game con TWA",
+        "tecnologias": "Javascript, PhaserJS",
         "links": [
             {
                 "id":36,
@@ -175,6 +181,7 @@
         "titulo": "Detector",
         "subtitulo": "Procesamiento de videos",
         "descripcion": "Detector de Personas",
+        "tecnologias": "Python",
         "links": [
             {
                 "id":37,
@@ -195,6 +202,7 @@
         "titulo": "QR Code Generator",
         "subtitulo": "Librería",
         "descripcion": "Generador creado desde cero",
+        "tecnologias": "Typescript, Javascript",
         "links": [
             {
                 "id":332,
@@ -215,7 +223,8 @@
         "id": "09",
         "titulo": "Pomodoro Timer",
         "subtitulo": "Módulo Web",
-        "descripcion": "Proyecto web creado con React Native",
+        "descripcion": "Temporizador",
+        "tecnologias": "Javascript, React Native",
         "links": [
             {
                 "id":332,
@@ -237,6 +246,7 @@
         "titulo": "Otros",
         "subtitulo": "Más",
         "descripcion": "Otros proyectos actuales en diversas tecnologías.",
+        "tecnologias": "Javascript Python PHP",
         "links": [
             {
                 "id":333,
