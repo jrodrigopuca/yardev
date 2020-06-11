@@ -5,10 +5,10 @@ class MyFooter extends Component{
     render(){
 
         const styles= {
-            backgroundColor: "antiquewhite",
+            backgroundColor: "#e6e1e9",
             margin:0,
             padding:'10px',
-            color:'#293462',
+            color:'#664c6f',
         }
 
         return(

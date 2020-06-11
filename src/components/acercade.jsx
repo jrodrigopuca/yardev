@@ -6,7 +6,7 @@ class AcercaDe extends Component {
     render() {
         const textCont={
             position:'relative',
-            backgroundColor:'rgba(41,52,98,0.5)',
+            backgroundColor:'rgba(55,0,255,0.2)',
             border:'none',
             overflow:"hidden",
             fontSize: 'calc(10px + 2vmin)',
